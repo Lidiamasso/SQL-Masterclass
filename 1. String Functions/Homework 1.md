@@ -6,7 +6,7 @@
 SELECT
 	firstname,
 	lastname,
-	left(firstname, 1)|| left(lastname, 1) AS initials
+	UPPER(left(firstname, 1)|| left(lastname, 1)) AS initials
 FROM
     sql_masterclass.users
 LIMIT 10;
