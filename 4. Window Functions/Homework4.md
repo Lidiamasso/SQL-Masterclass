@@ -39,7 +39,7 @@ FROM
 		2 ASC);
 
 ```
-![]()
+![](https://github.com/Lidiamasso/SQL-Masterclass/blob/master/4.%20Window%20Functions/Window%20Functions.PNG?raw=true)
 
 
 
