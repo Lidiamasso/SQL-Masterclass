@@ -30,7 +30,7 @@ where
 	v.venuestate = 'OH'
 group by 1;
 ```
-![]()
+![](https://github.com/Lidiamasso/SQL-Masterclass/blob/master/3.%20Subqueries/Subqueries.PNG?raw=true)
 
 
 
